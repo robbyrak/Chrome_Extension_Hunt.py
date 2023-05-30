@@ -3,7 +3,7 @@ import requests
 import pprint
 import pandas as pd
 
-api_key='xbFlCUAYGkWMJXybOmzjcdbPlfnvQZif'
+api_key='API KEY STRING'
 pp = pprint.PrettyPrinter(indent=4)
 no_report_ids= []
 themes_list=[]
